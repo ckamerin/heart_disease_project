@@ -60,3 +60,7 @@
  6: fixed defect: used to be defect but ok now
  7: reversable defect: no proper blood movement when excercising
  target - have disease or not (1=yes, 0=no) (= the predicted attribute)
+
+# Files
+heart-disease.csv - the dataset that includes all the features including the presence of heart disease, used to train and test the model
+end-to-end-heart-disease-classification-project - Python notebook of the model creation and testing
